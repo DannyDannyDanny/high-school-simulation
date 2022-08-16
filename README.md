@@ -2,18 +2,19 @@
 
 > :construction: this README is still under construction
 ### Roadmap:
-* [ ] images need to be cropped
-* [ ] move first draft text to local copy
-* [ ] move pictures from `~/Documents/belgrade-stuff/simulation` to local copy
-* [ ] crop pictures
+* [X] move first draft text to local copy
+* [X] move pictures from `~/Documents/belgrade-stuff/simulation` to local copy
+* [ ] crop [images](images)
+* [ ] crop [images](images) to appropriate places
 * [ ] write table of contents
-* [ ] add materials for facilitators
+* [ ] write about materials for facilitators
   * [ ] master sheet
   * [ ] like dislike networks
-* [ ] add materials for participants
+* [ ] write about materials for participants
   * [ ] family info sheet
   * [ ] kids secret sheet
   * [ ] vote sheet
+* [ ] write pre-simulation checklist
 
 This repository has the facilitator information for the **high conflict school** simulation.
 
@@ -156,3 +157,19 @@ gave us (facilitators) feedback on the project:
 * timing is flexible - great!
 * pandemic zoom call was difficult to emulate
 * focus on one key area: either identity, or negotiation or family values.
+
+## images
+
+> these should be cropped and moved to the appropriate section
+
+![all_secrets](all_secret.jpg)
+
+![all_vote_sheets](all_vote_sheets.jpg)
+
+![info](infosheet.jpg)
+
+![main_table](main_table.jpg)
+
+![timeline](timeline.jpg)
+
+![vote](vote.jpg)
