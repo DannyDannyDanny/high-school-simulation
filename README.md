@@ -162,14 +162,14 @@ gave us (facilitators) feedback on the project:
 
 > these should be cropped and moved to the appropriate section
 
-![all_secrets](all_secret.jpg)
+![all_secrets](imgs/all_secret.jpg)
 
-![all_vote_sheets](all_vote_sheets.jpg)
+![all_vote_sheets](imgs/all_vote_sheets.jpg)
 
-![info](infosheet.jpg)
+![info](imgs/infosheet.jpg)
 
-![main_table](main_table.jpg)
+![main_table](imgs/main_table.jpg)
 
-![timeline](timeline.jpg)
+![timeline](imgs/timeline.jpg)
 
-![vote](vote.jpg)
+![vote](imgs/vote.jpg)
